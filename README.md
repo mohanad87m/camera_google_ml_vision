@@ -1,6 +1,6 @@
 # camera_google_ml_vision
 
-[pub](1.1.0-nullsafety)
+[1.1.0-nullsafety](https://pub.dev/packages/camera_google_ml_vision)
 
 A Flutter package for iOS and Android to show a preview of the camera and detect things with Google ML Vision.
 
