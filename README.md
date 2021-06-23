@@ -1,13 +1,22 @@
 # camera_google_ml_vision
 
+<<<<<<< HEAD
 [pub]{package}
+=======
+pub package
+>>>>>>> c1d8e9098a3d03d38a0f6b8499450ee94e2aa3eb
 
 A Flutter package for iOS and Android to show a preview of the camera and detect things with Google ML Vision.
 
 This version is a copy taken from
+<<<<<<< HEAD
 
  [flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision),
 
+=======
+flutter_camera_ml_vision
+
+>>>>>>> c1d8e9098a3d03d38a0f6b8499450ee94e2aa3eb
 Installation
 First, add camera_google_ml_vision as a dependency.
 
@@ -64,4 +73,8 @@ Please file feature requests and bugs at the issue tracker.
 Technical Support
 For any technical support, don't hesitate to contact us. Find more information in our website
 
+<<<<<<< HEAD
 For now, all the issues with the label support mean that they come out of the scope of the following project. So you can contact us as a support.
+=======
+For now, all the issues with the label support mean that they come out of the scope of the following project. So you can contact us as a support.
+>>>>>>> c1d8e9098a3d03d38a0f6b8499450ee94e2aa3eb
