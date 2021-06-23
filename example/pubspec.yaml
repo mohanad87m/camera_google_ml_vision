@@ -29,8 +29,8 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
-  camera_google_ml_vision:
-    path: ../
+ # camera_google_ml_vision:
+  #  path: ../
 
 dev_dependencies:
   flutter_test:
